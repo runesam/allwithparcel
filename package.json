@@ -1,0 +1,22 @@
+{
+  "name": "allwithparcel",
+  "version": "1.0.0",
+  "description": "trying parcel for the first time with react app :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"there is no test for now\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runesam/allwithparcel.git"
+  },
+  "keywords": [
+    "MiT"
+  ],
+  "author": "Sam Ewdala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/runesam/allwithparcel/issues"
+  },
+  "homepage": "https://github.com/runesam/allwithparcel#readme"
+}
