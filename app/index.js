@@ -1,11 +1,11 @@
-import React , { Component } from 'react';
-import './index.css'
+import React, { Component } from 'react';
+import './index.scss';
 
 class App extends Component {
 	render() {
 		return (
 			<div>
-				Hello {'test asdasdas i do now'}
+				Hello {'that seems to be great'}
 			</div>
 		);
 	}
